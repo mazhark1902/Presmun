@@ -1,0 +1,14 @@
+[08-Jul-2023 05:08:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/benr9211/public_html/presmun.com/article/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/benr9211/public_html/presmun.com/article/index.php on line 13
+[08-Jul-2023 05:08:54 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/benr9211/public_html/presmun.com/article/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/benr9211/public_html/presmun.com/article/index.php on line 14
+[08-Jul-2023 05:17:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/benr9211/public_html/presmun.com/article/index.php on line 86
+[08-Jul-2023 05:17:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/benr9211/public_html/presmun.com/article/index.php on line 86
+[08-Jul-2023 09:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_repplace() in /home/benr9211/public_html/presmun.com/article/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/benr9211/public_html/presmun.com/article/index.php on line 95
